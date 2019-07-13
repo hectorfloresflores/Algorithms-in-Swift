@@ -12,9 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        var str = "abhhhhjhhhp"
+       
         // Do any additional setup after loading the view.
-       print( function(theString: str))
+       print( containsSubstring("hola","lo"))
     }
  
  

@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE21AD4422D97E3E00939275 /* ContainsSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEB5E5622D97C2B001F53C2 /* ContainsSubstring.swift */; };
 		CE3E962D22D3885B00D269CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3E962C22D3885B00D269CF /* AppDelegate.swift */; };
 		CE3E962F22D3885B00D269CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3E962E22D3885B00D269CF /* ViewController.swift */; };
 		CE3E963222D3885B00D269CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3E963022D3885B00D269CF /* Main.storyboard */; };
 		CE3E963422D3886100D269CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3E963322D3886100D269CF /* Assets.xcassets */; };
 		CE3E963722D3886100D269CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3E963522D3886100D269CF /* LaunchScreen.storyboard */; };
-		CE3E963F22D3888900D269CF /* NoRepetitiveCharSecuence.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3E963E22D3888900D269CF /* NoRepetitiveCharSecuence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		CE3E963322D3886100D269CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3E963622D3886100D269CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3E963822D3886100D269CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CE3E963E22D3888900D269CF /* NoRepetitiveCharSecuence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoRepetitiveCharSecuence.swift; sourceTree = "<group>"; };
+		CEEB5E5622D97C2B001F53C2 /* ContainsSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContainsSubstring.swift; path = ../../ContainsSubstring.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				CE3E963322D3886100D269CF /* Assets.xcassets */,
 				CE3E963522D3886100D269CF /* LaunchScreen.storyboard */,
 				CE3E963822D3886100D269CF /* Info.plist */,
-				CE3E963E22D3888900D269CF /* NoRepetitiveCharSecuence.swift */,
+				CEEB5E5622D97C2B001F53C2 /* ContainsSubstring.swift */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -139,7 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE3E962F22D3885B00D269CF /* ViewController.swift in Sources */,
-				CE3E963F22D3888900D269CF /* NoRepetitiveCharSecuence.swift in Sources */,
+				CE21AD4422D97E3E00939275 /* ContainsSubstring.swift in Sources */,
 				CE3E962D22D3885B00D269CF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
