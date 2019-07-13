@@ -23,6 +23,7 @@ public func containsSubstring(_ word: String, _ pattern: String) -> Bool {
         let c = word.subs(i: i)
         let g = pattern.subs(i: 0)
         
+        
         if c == g {
             
             var value = 0
